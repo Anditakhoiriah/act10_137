@@ -5,8 +5,8 @@ public class Teman {
     String nama;
     String telpon;
 
-    public Teman(){
 
+    public Teman() {
     }
 
     public Teman(String id, String nama, String telpon) {
@@ -39,4 +39,3 @@ public class Teman {
         this.telpon = telpon;
     }
 }
-
