@@ -25,6 +25,7 @@ android:id="@+id/recyclerView">
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="55dp"
-        tools:layout_editor_absoluteY="121dp"/>
+        tools:layout_editor_absoluteY="121dp">
 
+</androidx.recyclerview.widget.RecyclerView>
 </androidx.constraintlayout.widget.ConstraintLayout>
